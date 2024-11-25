@@ -1,0 +1,22 @@
+FadeIn / FadeOut:
+fadeIn: Faz um componente aparecer gradualmente na tela.
+fadeOut: Faz um componente desaparecer gradualmente da tela.
+ZoomIn / ZoomOut:
+zoomIn: Faz um componente aparecer na tela com um efeito de zoom.
+zoomOut: Faz um componente desaparecer da tela com um efeito de zoom.
+SlideIn / SlideOut:
+slideInUp: Faz um componente aparecer na tela deslizando de baixo para cima.
+slideOutDown: Faz um componente desaparecer da tela deslizando de cima para baixo.
+slideInDown: Faz um componente aparecer na tela deslizando de cima para baixo.
+slideOutUp: Faz um componente desaparecer da tela deslizando de baixo para cima.
+BounceIn / BounceOut:
+bounceIn: Faz um componente aparecer na tela com um efeito de salto.
+bounceOut: Faz um componente desaparecer da tela com um efeito de salto.
+RotateIn / RotateOut:
+rotateIn: Faz um componente aparecer na tela com um efeito de rotação.
+rotateOut: Faz um componente desaparecer da tela com um efeito de rotação.
+FlipIn / FlipOut:
+flipInX: Faz um componente aparecer na tela com um efeito de rotação horizontal.
+flipInY: Faz um componente aparecer na tela com um efeito de rotação vertical.
+flipOutX: Faz um componente desaparecer da tela com um efeito de rotação horizontal.
+flipOutY: Faz um componente desaparecer da tela com um efeito de rotação vertical.

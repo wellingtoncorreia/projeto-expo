@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World"
+    },
+    {
+      "id": "2",
+      "title": "React Native"
+    },
+    {
+      "id": "3",
+      "title": "testando mais um"
+    },
+    {
+      "id": "4",
+      "title": "ABCD"
+    },
+    {
+      "id": "5",
+      "title": "qqqq"
+    }
+  ]
+}
